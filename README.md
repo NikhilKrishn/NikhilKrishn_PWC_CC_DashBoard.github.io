@@ -1,6 +1,7 @@
 # PWC CALL CENTER DASHBOARD:
 ## Project Overview:
 Developed and implemented PwC call center dashboards to monitor customer experience, track employee performance, and identify areas for improvement.
+![task](images/pwc/task.png)
 ## Final Dashboard:
 ![final dashboard](images/pwc/final dashboard.png)
 
